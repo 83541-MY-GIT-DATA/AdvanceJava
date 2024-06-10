@@ -1,0 +1,42 @@
+
+Jun 08, 2024 13:43:41.182 NEW SESSION
+Jun 08, 2024 13:43:41.182 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 08, 2024 20:11:59.752 [11796:5152:0608/201159.752:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 08, 2024 20:37:03.503 [11796:18384:0608/203703.503:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jun 09, 2024 24:55:10.353 NEW SESSION
+Jun 09, 2024 24:55:10.353 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 09, 2024 15:03:01.593 NEW SESSION
+Jun 09, 2024 15:03:01.593 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 09, 2024 15:37:09.195 [16448:14792:0609/153709.195:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 15:37:35.647 [16448:14792:0609/153735.647:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 16:31:11.526 [16448:8520:0609/163111.522:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 09, 2024 17:02:49.705 [16448:8520:0609/170249.705:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 09, 2024 17:28:48.621 [16448:14792:0609/172848.621:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:34:07.685 [16448:14792:0609/173407.685:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:34:16.149 [16448:14792:0609/173416.149:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:34:33.638 [16448:14792:0609/173433.630:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:35:04.688 [16448:14792:0609/173504.688:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:35:13.16 [16448:14792:0609/173513.016:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 17:35:18.778 _create_dc_and_bitmap: The operation completed successfully.
+Jun 09, 2024 17:35:18.778 
+Jun 09, 2024 17:35:18.778 _create_dc_and_bitmap: The handle is invalid.
+Jun 09, 2024 17:35:18.786 
+Jun 09, 2024 17:36:18.848 [Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:36:18.848 [Child 24952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:36:18.848 [Child 24952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.538 [Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Child 26020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Child 26020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Child 26560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.554 [Child 26560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.569 [Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 17:46:16.682 
+Jun 09, 2024 17:46:16.682 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jun 09, 2024 17:46:16.682 
+Jun 09, 2024 17:46:16.682 [GPU 8460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 09, 2024 18:48:17.175 [16448:14792:0609/184817.174:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jun 09, 2024 19:00:08.918 [16448:8520:0609/190008.918:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
